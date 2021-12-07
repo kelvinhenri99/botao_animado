@@ -1,2 +1,2 @@
 # botao_animado
-Botão simples feito em CSS3
+Botão simples feito em HTML5 e CSS3
